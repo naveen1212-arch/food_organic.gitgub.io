@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.bg_abstract_all {
+    background: url('images/creative_bg.jpg');
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-attachment: scroll;
+      background-size: auto;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: auto;
+    background-position-x: 0%, 0%;
+    background-position-y: 0%, 0%;
+    background-size: auto, auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+  }
+  .parallax {
+    min-height: 500px;
+    background: linear-gradient(rgba(0, 0, 0, 0.763), rgba(0, 0, 0, 0.849)), url('https://images.unsplash.com/photo-1625246333195-78d9c38ad449?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+      background-position-x: 0%, 0%;
+      background-position-y: 0%, 0%;
+      background-repeat: repeat, repeat;
+      background-attachment: scroll, scroll;
+      background-size: auto, auto;
+    background-position-x: 0%, 0%;
+    background-position-y: 0%, 0%;
+    background-repeat: repeat, repeat;
+    background-attachment: scroll, scroll;
+    background-size: auto, auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
